@@ -13,7 +13,6 @@
 
 - :school: I’m a student at [Faculty of Informatics](https://www.inf.ucv.cl/) at [Pontifical Catholic University of Valparaíso](http://pucv.cl).
 - :student: I’m currently learning `Software and Informatics Engineering`.
-- :technologist: I love using Software as a solution for every `Problem`.
 - 🌱 I’m currently learning **Backend Development**
 - 📫 Reach out to me at: <a href="giulliano.martinez.y@gmail.com">giulliano.martinez.y@gmail.com</a>
 
@@ -33,6 +32,13 @@
   
 </span>
 
+<h4> Others Tools and Technologies </h4>
+<span>
+	<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+	<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+	<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+</span>
 
 <br>
 
@@ -48,3 +54,9 @@
 	<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
   
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=giullianomartinez&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/giullianomartinez)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=giullianomartinez&theme=material-palenight)](https://github.com/giullianomartinez)
+</div>
+
