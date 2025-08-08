@@ -3,15 +3,25 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=;Informatics+Engineering+Student;Always+learning+new+things"></a>
 </p>
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+<br>
+
+- :school: I’m a student at [Faculty of Informatics](https://www.inf.ucv.cl/) at [Pontifical Catholic University of Valparaíso](http://pucv.cl).
+- :student: I’m currently learning `Software and Informatics Engineering`.
+- :technologist: I love using Software as a solution for every `Problem`.
+<br>
 
 🌱 I’m currently learning **Backend Development**
 
+
 <hr width="36%" >
 
-<h3 align="left">Tech stack:</h3>
+## Tech  stack:
 <p align="left">
 	<a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
