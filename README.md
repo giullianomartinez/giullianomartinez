@@ -42,16 +42,13 @@
 
 <br>
 
-## Check out my Social Media
+## Connec With Me
 
 <a href="https://www.linkedin.com/in/giulliano-martinez-yanez/" >
 	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://discord.com/users/538841451040210954" >
 	<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-<a href="https://www.instagram.com/blasbtw/" >
-	<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
   
 <h2>Github stats:</h2> 
